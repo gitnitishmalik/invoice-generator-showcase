@@ -27,5 +27,5 @@ User Upload → Image Processing → Gemini Vision Model → Data Extraction →
 ---
 
 ## 🔗 Links
-- **Live App:** https://invoice-generator0.streamlit.app/  
+- **Live App:** https://invoice-generator-rosy-gamma.vercel.app/  
 - **GitHub:** https://github.com/gitnitishmalik  
